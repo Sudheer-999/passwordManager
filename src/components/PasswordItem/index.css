@@ -1,0 +1,81 @@
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.green {
+  background-color: #10b981;
+}
+
+.lightgreen {
+  background-color: #14b8a6;
+}
+
+.maroon {
+  background-color: #b91c1c;
+}
+
+.list-item {
+  border: 1px solid #9ba9eb;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  border-radius: 5px;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.details-con {
+  display: flex;
+  align-items: center;
+}
+
+.stars-img {
+  width: 120px;
+}
+
+.delete-icon {
+  width: 30px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.del-btn {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.initial-con {
+  width: 80px;
+}
+
+.initial-text {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+  color: #ffffff;
+}
+
+.web-head {
+  color: #f8fafc;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.name-head {
+  color: #f8fafc;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
